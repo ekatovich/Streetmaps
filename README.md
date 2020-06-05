@@ -8,7 +8,7 @@ how to create maps of almost any city.
 
 This tutorial is drawn from a really nice tutorial by ggplot2tor:
 https://ggplot2tutor.com/streetmaps/streetmaps/
-I supplement this tutorial by incorporate watercolor background tiles
+I supplement this tutorial by incorporating watercolor background tiles
 from Stamen design. 
 
 I also provide a PowerPoint template to customize the final appearance of whatever 
