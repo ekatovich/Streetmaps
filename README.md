@@ -7,7 +7,7 @@ how to create and customize a streetmap of Rio de Janeiro, Brazil, and explain
 how to create maps of almost any city. 
 
 This tutorial is drawn from a really nice tutorial by ggplot2tor:
-ggplot2tor:https://ggplot2tutor.com/streetmaps/streetmaps/
+https://ggplot2tutor.com/streetmaps/streetmaps/
 I supplement this tutorial by incorporate watercolor background tiles
 from Stamen design. 
 
